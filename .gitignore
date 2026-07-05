@@ -1,0 +1,9 @@
+# debug photos and dumps from wiring sessions
+*.jpg
+*.HEIC
+usb_dump.txt
+
+# local test scripts and backups not part of the project
+test_*.py
+main_backup_from_pico.py
+ultrasonic.py
