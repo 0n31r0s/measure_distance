@@ -3,6 +3,9 @@
 *.HEIC
 usb_dump.txt
 
+# ...but keep the README images
+!images/*.jpg
+
 # local test scripts and backups not part of the project
 test_*.py
 main_backup_from_pico.py
